@@ -1,4 +1,4 @@
-Clarice is a chess engine for educational purpose.
+Clarice is a chess engine for educational purpose. ELO ~2200
 
 To compile to a.out use the following command:
 
